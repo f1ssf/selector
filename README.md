@@ -8,6 +8,8 @@ Ce mode permet d'utiliser les relais mecaniques Transco jusqu'a 8 voies.
 
 ICOM : sélection automatique du relais en fonction d’une tension analogique sur A0 (issue d’un poste ICOM via réseau résistif / sorties band-data), avec filtrage anti-bruit.
 
+Pour l'instant seul IC7300 et IC9100 sont implantés.
+
 *********   ATTENTION / WARNNING    les ICOM delivrent une tension de 8V, vous devez utiliser un pont diviseur sur A0 pour transposer en 5V, voir le code  **********
 
 <img width="480" height="318" alt="maintenu" src="https://github.com/user-attachments/assets/a799fcf8-d24c-43b3-b2ca-1596346e2be2" />
