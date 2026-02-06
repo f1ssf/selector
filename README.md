@@ -10,13 +10,10 @@ ICOM : sélection automatique du relais en fonction d’une tension analogique s
 
 *********   ATTENTION / WARNNING    les ICOM delivrent une tension de 8V, vous devez utiliser un pont diviseur sur A0 pour transposer en 5V, voir le code  **********
 
-![IMG_1169](https://github.com/user-attachments/assets/9f51cea3-da0e-4479-b36c-304dff3df2b2)
+<img width="480" height="318" alt="maintenu" src="https://github.com/user-attachments/assets/a799fcf8-d24c-43b3-b2ca-1596346e2be2" />
 
 
-![IMG_1170](https://github.com/user-attachments/assets/ae016195-6cd7-488f-8412-ec4d40d60ef9)
+<img width="481" height="322" alt="temporisé" src="https://github.com/user-attachments/assets/2db2067c-5332-4546-abd7-1a55dc8ac104" />
 
 
-![IMG_1171](https://github.com/user-attachments/assets/40c61eb2-739c-4073-980a-ac5abb766dda)
-
-
-![IMG_1169](https://github.com/user-attachments/assets/4610b987-5a42-4ab1-96ad-1c62694c1e45)
+<img width="475" height="318" alt="icom" src="https://github.com/user-attachments/assets/c90c05df-2ef6-4fc6-bbf4-9953edee97e5" />
