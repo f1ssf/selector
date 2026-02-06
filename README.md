@@ -17,3 +17,6 @@ ICOM : sélection automatique du relais en fonction d’une tension analogique s
 
 
 ![IMG_1171](https://github.com/user-attachments/assets/40c61eb2-739c-4073-980a-ac5abb766dda)
+
+
+![IMG_1169](https://github.com/user-attachments/assets/4610b987-5a42-4ab1-96ad-1c62694c1e45)
