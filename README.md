@@ -18,4 +18,4 @@ Pour l'instant seul IC7300 et IC9100 sont implantés.
 <img width="481" height="322" alt="temporisé" src="https://github.com/user-attachments/assets/2db2067c-5332-4546-abd7-1a55dc8ac104" />
 
 
-<img width="475" height="318" alt="icom" src="https://github.com/user-attachments/assets/c90c05df-2ef6-4fc6-bbf4-9953edee97e5" />
+<img width="487" height="328" alt="Capture d&#39;écran 2026-02-07 114038" src="https://github.com/user-attachments/assets/69ee24ec-ede2-4cf8-8cf2-3996fe754de0" />
